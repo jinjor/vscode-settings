@@ -8,6 +8,12 @@
     "[elm]": {
         "editor.formatOnSave": true
     },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
     "workbench.iconTheme": "vs-minimal",
     "explorer.confirmDragAndDrop": false,
     "editor.minimap.enabled": false,
